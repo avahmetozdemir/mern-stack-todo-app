@@ -6,7 +6,7 @@ function Registerform({register,setUsername,setPassword}) {
     <Form onSubmit={register}>
       <Form.Group className="mb-3" controlId="formBasicEmail">
         <Form.Label>Username</Form.Label>
-        <Form.Control onChange={e => setUsername(e.target.value)} type="email" placeholder="Enter username" />
+        <Form.Control onChange={e => setUsername(e.target.value)} type="text" placeholder="Enter username" />
         
       </Form.Group>
 
