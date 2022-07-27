@@ -1,4 +1,4 @@
-# Pokemon App with Create-React-App
+# Todo App- MERN Stack
 
 MERN Stack application built with React NodeJs Express and MongoDB.
 
