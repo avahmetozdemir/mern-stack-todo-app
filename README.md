@@ -2,7 +2,7 @@
 
 MERN Stack application built with React NodeJs Express and MongoDB.
 
-Front end created with CRA and backend Nodejs-Express and MongoDB as database . It also uses https://react-bootstrap.github.io/ as front-end framework for React components.
+Front end is created with CRA and backend is created Nodejs-Express. used MongoDB as database . It also uses https://react-bootstrap.github.io/ as front-end framework for React components.
 
 ## Screenshots
 
